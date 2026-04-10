@@ -1,6 +1,6 @@
 {
-  "name": "cloudinary-labs/cloudinary-laravel",
-  "description": "A Laravel Cloudinary Package",
+  "name": "kazeeem/cloudinary-laravel",
+  "description": "A Laravel Cloudinary Package Forked From CloudinaryLabs/cloudinary-laravel with support for Laravel 13",
   "license": "MIT",
   "authors": [
     {
