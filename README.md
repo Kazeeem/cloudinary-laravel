@@ -33,7 +33,7 @@
 Requires PHP 8.2+ and Laravel 11+.
 
 ```bash
-composer require cloudinary-labs/cloudinary-laravel
+composer require kazeeem/cloudinary-laravel
 ```
 
 After you have installed the SDK, you can invoke the install command to set everything up:
