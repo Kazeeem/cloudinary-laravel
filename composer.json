@@ -5,6 +5,7 @@
   "authors": [
     {
       "name": "Kazeem Asifat",
+      "email": "kazeemasifat1@gmail.com",
       "homepage": "https://github.com/Kazeeeem"
     }
   ],
@@ -36,7 +37,7 @@
       "CloudinaryLabs\\CloudinaryLaravel\\": "src/"
     },
     "files": [
-      "src/helpers.php"
+      "src/Support/helpers.php"
     ]
   },
   "autoload-dev": {

@@ -13,7 +13,7 @@
 
 uses(
     Tests\TestCase::class,
-    // Illuminate\Foundation\Testing\RefreshDatabase::class,
+// Illuminate\Foundation\Testing\RefreshDatabase::class,
 )->in('Unit');
 
 /*
@@ -27,9 +27,9 @@ uses(
 |
 */
 
-// expect()->extend('toBeOne', function () {
-//     return $this->toBe(1);
-// });
+expect()->extend('toBeOne', function () {
+    return $this->toBe(1);
+});
 
 /*
 |--------------------------------------------------------------------------
@@ -42,7 +42,7 @@ uses(
 |
 */
 
-// function something()
-// {
-//     // ..
-// }
+function something()
+{
+    // ..
+}
